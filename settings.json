@@ -8,7 +8,7 @@
   "server": {
     "ip": "sandu567.aternos.me",
     "port": 29995,
-    "version": 1.21.11"
+    "version":"1.21.11"
     "try-creative": false
   },
   "position": {
